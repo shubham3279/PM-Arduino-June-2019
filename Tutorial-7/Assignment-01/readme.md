@@ -1,0 +1,1 @@
+# LED continuously increasing its brightness through condidered 11 values between 0 and 255 (inclusive of both).
