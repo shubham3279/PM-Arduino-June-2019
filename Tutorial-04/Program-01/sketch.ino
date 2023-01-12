@@ -1,4 +1,4 @@
-int outPin = 12; //output PIoutPin
+int outPin = 12; //output Pin
 int dotDelay = 200;
 int dashDelay = 600;
 int longDelay = 2000;

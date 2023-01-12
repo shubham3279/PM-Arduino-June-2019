@@ -1,5 +1,3 @@
-// Working with On-Board LED
-
 void setup() {
   // put your setup code here, to run once:
 
